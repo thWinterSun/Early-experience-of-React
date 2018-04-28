@@ -1,2 +1,1 @@
-"# Early-experience-of-React" 
-"Start learning React, and record some practice examples"
+"# Start learning React, and record some practice examples"
